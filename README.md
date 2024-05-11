@@ -25,7 +25,10 @@ Compila la aplicación para producción en la carpeta `build`.\
 Agrupa React correctamente en modo producción y optimiza la compilación para el mejor rendimiento.
 
 Instalacion de la rutas
+### `npm install react-router-dom`
+
 ### `yarn add react-router-dom`
+
 
 La compilación está minimizada y los nombres de archivo incluyen hashes.\
 ¡Tu aplicación está lista para desplegarse!
